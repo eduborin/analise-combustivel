@@ -12,7 +12,7 @@ Este projeto analisa a variação do preço de combustíveis no Brasil ao longo 
 - Visualizações informativas
 
 ## 📁 Dados
-Os dados foram obtidos da ANP, disponíveis [neste link] (https://drive.google.com/file/d/1IV3vhqFmJpZGS9gpkd7bB0aVeuWX3zwR/view?usp=drive_link).
+Os dados foram obtidos da ANP, disponíveis [neste link](https://drive.google.com/file/d/1IV3vhqFmJpZGS9gpkd7bB0aVeuWX3zwR/view?usp=drive_link).
 
 ## 📈 Resultados
 - A gasolina comum tende a ter preço mais baixo que a aditivada.
